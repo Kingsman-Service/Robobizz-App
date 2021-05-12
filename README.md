@@ -26,7 +26,9 @@ Though this app was built for robotics club, it can be used for any organization
 </div>
 
 ## 2. Login
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/login.gif">
+</div>
 
 ## 3. Upload video
 
