@@ -22,7 +22,7 @@ Though this app was built for robotics club, it can be used for any organization
 
 ## 1. Signup                                                     2. Login
 <div align="center">
-  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/signup.gif">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/signup.gif"> &nbsp;
   <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/login.gif" style="margin-left:100px">
 </div>
 
