@@ -18,10 +18,12 @@ The initial purpose was to build an app that will be make the operations of a ro
 Though this app was built for robotics club, it can be used for any organization with similar operations.
 ```
 
-***✔️ The prime usecases with demonstrations:***
+***✔️ The prime usecase demonstrations:***
 
 ## 1. Signup
-
+<div align="center">
+  <img src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/signup.gif">
+</div>
 
 ## 2. Login
 
