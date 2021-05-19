@@ -1,6 +1,6 @@
 # 🤖 Robobizz-App
 
-Robobizz is an android application that brings 3 platforms together: 
+Robobizz is an android application that brings 3 platforms together : 
 ```
 - online marketplace
 - online microblogging service
