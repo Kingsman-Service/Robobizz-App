@@ -20,12 +20,12 @@ Though this app was built for robotics club, it can be used for any organization
 
 ***✔️ The prime usecase demonstrations:***
 
-## 1. Signup                                                     2. Login
+## 1. Signup                                                     
 <div align="center">
   <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/signup.gif"> &nbsp;
   <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/login.gif" style="margin-left:100px">
 </div>
-
+## 2. Login
 ## 3. Upload video
 
 
