@@ -22,31 +22,40 @@ Though this app was built for robotics club, it can be used for any organization
 
 ## 1. Signup                                                     
 <div align="center">
-  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/signup.gif"> &nbsp;
-  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/login.gif" style="margin-left:100px">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-33-28.jpg"> 
 </div>
 ## 2. Login
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-32-50.jpg"> 
+</div>
 ## 3. Upload video
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-33-40.jpg"> 
+</div>
 ## 4. Watch video
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-33-49.jpg"> 
+</div>
 ## 5. Browse newsfeed
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-33-55.jpg"> 
+</div>
 ## 6. Post
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-34-04.jpg"> 
+</div>
 ## 7. Upload product
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-34-10.jpg"> 
+</div>
 ## 8. Buy product
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-34-49.jpg"> 
+</div>
 ## 9. Sell product
-
-
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-34-55.jpg"> 
+</div>
 ## 10. User profile
 <div align="center">
   <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-35-05.jpg"> 
