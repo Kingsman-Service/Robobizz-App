@@ -29,7 +29,7 @@ Though this app was built for robotics club, it can be used for any organization
 ## 3. Upload video
 
 
-## 4. Watch Video
+## 4. Watch video
 
 
 ## 5. Browse newsfeed
@@ -41,8 +41,13 @@ Though this app was built for robotics club, it can be used for any organization
 ## 7. Upload product
 
 
-## 8. Buy Product
+## 8. Buy product
 
 
 ## 9. Sell product
 
+
+## 10. User profile
+<div align="center">
+  <img height="500" src="https://github.com/Kingsman-Service/Robobizz-App/blob/main/photo_2021-12-05_04-35-05.jpg"> 
+</div>
